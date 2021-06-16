@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://t.me/Didiktea/"><img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" width="500px" height="500px" /></a></p>
                                                                            
-<p align="center"><a href="https://github.com/Didiktea"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/didikteatochhawng"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/dika_sanders"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="32px" height="32px"></a></p>
+<p align="center"><a href="https://github.com/Didiktea"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="62px" height="62px"></a> &nbsp;&nbsp; <a href="https://www.facebook.com/didikteatochhawng"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="62px" height="62px"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/dika_sanders"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width="62px" height="62px"></a></p>
 
 <br>✨ About Me:
 
