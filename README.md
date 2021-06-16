@@ -16,9 +16,9 @@ I'm Didiktea. I'm a Full Stack Developer who is passionate about making open-sou
 
 📊 My GitHub Stats:
 
-> ![Profile views](https://gpvc.arturio.dev/imjanindu)
+> ![Profile views](https://gpvc.arturio.dev/Didiktea)
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple alt=ImJanindu />
+	<img src=https://github-readme-stats.vercel.app/api?username=Didiktea&show_icons=true&theme=midnight-purple alt=Didiktea />
 </p>
 
