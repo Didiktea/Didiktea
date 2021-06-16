@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center"> <h1 align="center"> Didiktea </h1> </p>
 
-<!--
-**Didiktea/Didiktea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|<a href="https://t.me/Didiktea/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|       **[Portfolio](https://Didiktea.com)**                                                                                |
+| <a href="https://github.com/Didiktea"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/didikteatochhawng"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/dika_sanders"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a>|
 
-Here are some ideas to get you started:
+<br>✨ About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Didiktea. I'm a Full Stack Developer who is passionate about making open-source projects, creating technology to elevate people, and building community and currently working on opensource projects at [Mizo Android Users](https://t.me/puituflynn). I love Python and HTML. 
+
+📫 How to reach me:
+
+`Telegram:` [Didiktea](https://t.me/Didiktea) <br> 
+`Gmail:` dikatochhawng29@gmail.com
+
+📊 My GitHub Stats:
+
+> ![Profile views](https://gpvc.arturio.dev/imjanindu)
+
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=imjanindu&show_icons=true&theme=midnight-purple alt=ImJanindu />
+</p>
+
