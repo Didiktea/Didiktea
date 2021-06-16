@@ -1,9 +1,9 @@
 <p align="center"> <h1 align="center"> Didiktea </h1> </p>
 
-|<a href="https://t.me/Didiktea/"><img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" width="150px" height="150px" /></a> |
+|<a href="https://t.me/Didiktea/"><img src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif" width="500px" height="500px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 |       **[Portfolio](https://Didiktea.com)**                                                                                |
-| <a href="https://github.com/Didiktea"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="62px" height="62px"></a> <a href="https://www.facebook.com/didikteatochhawng"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/dika_sanders"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a>|
+| <a href="https://github.com/Didiktea"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/didikteatochhawng"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/dika_sanders"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a>|
 
 <br>✨ About Me:
 
